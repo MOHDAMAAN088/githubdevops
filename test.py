@@ -1,1 +1,1 @@
-rint("DEVOPS")
+print("DEVOPS")
